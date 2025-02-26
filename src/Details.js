@@ -15,7 +15,7 @@ import jupyter from "./assets/techstack/jupyter.png";
 import github from "./assets/techstack/github.png";
 import vscode from "./assets/techstack/vscode.png";
 // Porject Images
-import projectImage1 from "./assets/projects/project1.jpg";
+import projectImage1 from "./assets/projects/project1.png";
 // import projectImage2 from "./assets/projects/project2.jpg";
 // import projectImage3 from "./assets/projects/project3.jpg";
 // import projectImage4 from "./assets/projects/project4.jpg";
@@ -36,6 +36,8 @@ export const personalDetails = {
 export const socialMediaUrl = {
   linkdein: "https://linkedin.com/in/malliswari-boggavarapu",
   github: "https://github.com/Malliswari18",
+  previewLink: "https://malliswari18.github.io/editprofile-app/",
+
 };
 
 
@@ -75,12 +77,12 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Community service project",
+    title: "Editprofile app",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    githubLink: "https://github.com",
+    description: `I developed a Flutter application as part of a one-week workshop at my college, conducted by APSSDC (Andhra Pradesh State Skill Development Corporation). During this workshop, I gained hands-on experience and practical knowledge in Flutter, a popular open-source UI software development toolkit created by Google. Additionally, I utilized ChatGPT to assist in developing certain features and functionalities of the app, ensuring a seamless user experience. This project showcases my ability to quickly learn new technologies and apply them effectively to create functional and engaging applications.`,
+    techstack: "HTML/CSS, js,dart",
+    githubLink: "https://github.com/Malliswari18",
+    previewLink: "https://malliswari18.github.io/editprofile-app/",
   },
  
 

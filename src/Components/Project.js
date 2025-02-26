@@ -34,7 +34,7 @@ function Project({ title, image, description, techstack, previewLink, githubLink
               />
             </svg>
             <a
-              href={previewLink}
+              href="https://malliswari18.github.io/editprofile-app/"
               target="_blank"
               rel="noreferrer noopener"
               className="underline pl-2 font-light dark:text-white"
