@@ -16,7 +16,7 @@ import github from "./assets/techstack/github.png";
 import vscode from "./assets/techstack/vscode.png";
 // Porject Images
 import projectImage1 from "./assets/projects/project1.png";
-// import projectImage2 from "./assets/projects/project2.jpg";
+ import projectImage2 from "./assets/projects/project2.png";
 // import projectImage3 from "./assets/projects/project3.jpg";
 // import projectImage4 from "./assets/projects/project4.jpg";
 // import projectImage5 from "./assets/projects/project5.jpg";
@@ -83,6 +83,14 @@ export const projectDetails = [
     techstack: "HTML/CSS, js,dart",
     githubLink: "https://github.com/Malliswari18",
     previewLink: "https://malliswari18.github.io/editprofile-app/",
+  },
+  {
+    title: "mental health prediction system",
+    image: projectImage2,
+    description:'I am excited to share our Mental Health Detection System, developed as part of our college techfest on March 7th. This project leverages machine learning to predict mental health risk scores based on various user inputs and provides personalized suggestions and analysis through an interactive web interface built with Streamlit and Flask.',
+    techstack: "python,streamlit,flask",
+    githubLink: "https://github.com/Malliswari18",
+    previewLink: "https://prediction-model-qzbtkfsewcmtcn3otgdx64.streamlit.app/",
   },
  
 
