@@ -4,17 +4,28 @@ import { personalDetails, eduDetails } from "../Details";
 
 function About() {
   return (
-    <main className="container mx-auto max-width pt-10 pb-20 ">
+    <main className="container mx-auto max-width pt-10 pb-20">
+      {/* About Me Section */}
       <section>
         <h1 className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
           About Me
         </h1>
-        <p className="text-content py-8 lg:max-w-3xl">{personalDetails.about}</p>
+        <p className="text-content py-8 lg:max-w-3xl">
+          {personalDetails.about}
+        </p>
+
+        {/* Resume Button */}
+        <a
+          href="/resume1.pdf" // Place your resume file in public folder
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors duration-300"
+        >
+          View My Resume
+        </a>
       </section>
-      <section>
-        <h1 className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
-        </h1>
-      </section>
+
+      {/* Education Section */}
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
           Education

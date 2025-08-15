@@ -49,11 +49,19 @@ function Header() {
               Technologies
             </NavLink>
           </li>
+          <li>
+  <a href="/certifications" className="hover:text-blue-500">Certifications</a>
+</li>
+
           <li className="pb-1 md:pb-0">
             <NavLink to="/projects" onClick={toggleClass}>
               Projects
             </NavLink>
           </li>
+          <li>
+  <a href="/experience" className="hover:text-blue-500">Experience</a>
+</li>
+
           <li>
             <NavLink to="/contact" onClick={toggleClass}>
               Contact

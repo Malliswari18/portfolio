@@ -97,6 +97,25 @@ export const projectDetails = [
  
  
 ];
+export const internshipDetails = [
+  {
+    Position: "Production Department Intern",
+    Company: "TVS Sundram Fasteners Limited",
+    Location: "Sricity, India",
+    Type: "Full-time Internship",
+    Duration: "Jan 2025 - Mar 2025",
+    Description: "Worked in the production department focusing on manufacturing efficiency and process optimization."
+  },
+  {
+    Position: "Web Development Intern",
+    Company: "InFlix Software Services",
+    Location: "Remote",
+    Type: "Part-time Internship",
+    Duration: "Jun 2024 - Aug 2024",
+    Description: "Built responsive websites using HTML, CSS, JavaScript, and React."
+  }
+];
+
 
 // Enter your Contact Details here
 export const contactDetails = {
