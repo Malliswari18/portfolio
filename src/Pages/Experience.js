@@ -1,6 +1,10 @@
 import React from "react";
 import Work from "../Components/Work";
 
+// Import your certificate PDFs from the assets folder
+import excelrCert from "../assets/certifications/excelr.pdf";
+import gcloudCert from "../assets/certifications/cloud.pdf";
+
 function Experience() {
   return (
     <main className="container mx-auto max-width pt-10 pb-20">
@@ -20,7 +24,7 @@ function Experience() {
             description="Completed a short-term internship focused on Prompt Engineering and ChatGPT, organized by ExcelR Edtech Pvt. Ltd. in collaboration with Andhra Pradesh State Council of Higher Education. Gained hands-on experience in crafting effective AI prompts and leveraging ChatGPT for real-world applications."
           />
           <a
-            href="/EXCELR-2002723.pdf"
+            href={excelrCert}
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-600 hover:underline"
@@ -35,12 +39,12 @@ function Experience() {
             position="Google Cloud Study Jams - Cloud Computing Fundamentals Training"
             company="GDSC Aditya Institute of Technology and Management"
             location="Remote / College"
-            type="Training Program"
+            type="Hands-on labs"
             duration="2023 (1st Year)"
             description="Successfully completed Google Cloud's Cloud Computing Fundamentals training through Google Developer Student Clubs (GDSC). Acquired foundational cloud skills and hands-on experience with Google Cloud services. Verified skill badges via Google Cloud Skills Boost."
           />
           <a
-            href="/malleswarigdsc.pdf"
+            href={gcloudCert}
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-600 hover:underline"

@@ -17,7 +17,7 @@ import vscode from "./assets/techstack/vscode.png";
 // Porject Images
 import projectImage1 from "./assets/projects/project1.png";
  import projectImage2 from "./assets/projects/project2.png";
-// import projectImage3 from "./assets/projects/project3.jpg";
+import projectImage3 from "./assets/projects/project3.png";
 // import projectImage4 from "./assets/projects/project4.jpg";
 // import projectImage5 from "./assets/projects/project5.jpg";
 // import projectImage6 from "./assets/projects/project6.jpg";
@@ -92,29 +92,20 @@ export const projectDetails = [
     githubLink: "https://github.com/Malliswari18",
     previewLink: "https://prediction-model-qzbtkfsewcmtcn3otgdx64.streamlit.app/",
   },
+  {
+    title: "Profile",
+    image: projectImage3,
+    description:'A profile card project for my portfolio, designed using Css,Html. It showcases my personal details, skills, and links interactively.',
+    techstack: "Html,Css",
+    githubLink: "https://github.com/Malliswari18/profilecard",
+    previewLink: "https://profilecard222u1a3317.netlify.app/",
+  },
  
 
  
  
 ];
-export const internshipDetails = [
-  {
-    Position: "Production Department Intern",
-    Company: "TVS Sundram Fasteners Limited",
-    Location: "Sricity, India",
-    Type: "Full-time Internship",
-    Duration: "Jan 2025 - Mar 2025",
-    Description: "Worked in the production department focusing on manufacturing efficiency and process optimization."
-  },
-  {
-    Position: "Web Development Intern",
-    Company: "InFlix Software Services",
-    Location: "Remote",
-    Type: "Part-time Internship",
-    Duration: "Jun 2024 - Aug 2024",
-    Description: "Built responsive websites using HTML, CSS, JavaScript, and React."
-  }
-];
+
 
 
 // Enter your Contact Details here

@@ -20,6 +20,7 @@ function App() {
         <Route path="/projects" element={<Projects />} />
         <Route path="/technologies" element={<Technologies />} />
         <Route path="/experience" element={<Experience />} />
+        <Route path="*" element={<Home />} /> {/* fallback to Home */}
         
 <Route path="/Certifications" element={<Certifications />} />
       </Routes>

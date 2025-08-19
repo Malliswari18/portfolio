@@ -51,7 +51,8 @@ function Home() {
           ref={h11}
           className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold"
         >
-          Hi,👋 I'm Malleswari
+          Hi,👋 
+          I'm Malleswari Boggavarapu
         </h1>
         <h2
           ref={h12}
