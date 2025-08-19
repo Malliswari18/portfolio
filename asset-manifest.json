@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1aceb717.css",
+    "main.js": "/portfolio/static/js/main.7c32a680.js",
+    "static/media/cisco.pdf": "/portfolio/static/media/cisco.f3a765440a1947e558d1.pdf",
+    "static/media/android.jpg": "/portfolio/static/media/android.a5a12a1195102407ad30.jpg",
+    "static/media/cloud.pdf": "/portfolio/static/media/cloud.0f2e9ac972c8d3527b68.pdf",
+    "static/media/webdev.jpg": "/portfolio/static/media/webdev.6120927f60152610d1c0.jpg",
+    "static/media/cisco.jpg": "/portfolio/static/media/cisco.303982f35526215f3b8a.jpg",
+    "static/media/cloud.jpg": "/portfolio/static/media/cloud.67dfdbaf47f039663b66.jpg",
+    "static/media/django.jpg": "/portfolio/static/media/django.2f8f748fbcaa2e0bfbb5.jpg",
+    "static/media/project3.png": "/portfolio/static/media/project3.a6f57dc7b20b1be623ad.png",
+    "static/media/excelr.pdf": "/portfolio/static/media/excelr.9b77d9566e9f1e8602e9.pdf",
+    "static/media/pythonfordata.jpg": "/portfolio/static/media/pythonfordata.e9c97c84c8b533cf8819.jpg",
+    "static/media/django.pdf": "/portfolio/static/media/django.f7a5176828913055bcb6.pdf",
+    "static/media/webdev.pdf": "/portfolio/static/media/webdev.00f3be5bbdd30751a82f.pdf",
+    "static/media/project2.png": "/portfolio/static/media/project2.c5ea68ae661c3478f3b0.png",
+    "static/media/nextwave.jpg": "/portfolio/static/media/nextwave.7e67ce62852a4671733b.jpg",
+    "static/media/resume1.pdf": "/portfolio/static/media/resume1.42b30a69384adeb3a1ff.pdf",
+    "static/media/android.pdf": "/portfolio/static/media/android.59ec12b2097bcc205ee1.pdf",
+    "static/media/pythonfordata.pdf": "/portfolio/static/media/pythonfordata.bc52796e20bf1105e614.pdf",
+    "static/media/project1.png": "/portfolio/static/media/project1.40930107e56989664b89.png",
+    "static/media/pythonworkshop.jpg": "/portfolio/static/media/pythonworkshop.3fba2f7c1d3c61c6e704.jpg",
+    "static/media/genai.jpg": "/portfolio/static/media/genai.e7e08fc8e495a92ef7ce.jpg",
+    "static/media/aitools.jpg": "/portfolio/static/media/aitools.b10bd044eac1ad7be898.jpg",
+    "static/media/jupyter.png": "/portfolio/static/media/jupyter.690977609f876251e7b9.png",
+    "static/media/java.png": "/portfolio/static/media/java.d8c9bdf6f8dab9ebe4e4.png",
+    "static/media/c.png": "/portfolio/static/media/c.30e8acff157f8fa06702.png",
+    "static/media/python.png": "/portfolio/static/media/python.a827d87b70e85f29e93a.png",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.0a7d747e2cad6f5df84c.jpg",
+    "static/media/googlecloud.png": "/portfolio/static/media/googlecloud.0b171ad9ff535139611d.png",
+    "index.html": "/portfolio/index.html",
+    "main.1aceb717.css.map": "/portfolio/static/css/main.1aceb717.css.map",
+    "main.7c32a680.js.map": "/portfolio/static/js/main.7c32a680.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aceb717.css",
+    "static/js/main.7c32a680.js"
+  ]
+}
