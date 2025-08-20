@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 import Home from "./Pages/Home";
@@ -20,14 +20,12 @@ function App() {
         <Route path="/projects" element={<Projects />} />
         <Route path="/technologies" element={<Technologies />} />
         <Route path="/experience" element={<Experience />} />
-        <Route path="*" element={<Home />} /> {/* fallback to Home */}
-        
-<Route path="/Certifications" element={<Certifications />} />
+        <Route path="/certifications" element={<Certifications />} />
+        <Route path="*" element={<Home />} /> {/* fallback */}
       </Routes>
       <Footer />
     </Router>
   );
 }
-
 
 export default App;
