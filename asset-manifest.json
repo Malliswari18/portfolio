@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1aceb717.css",
-    "main.js": "/portfolio/static/js/main.7c32a680.js",
+    "main.css": "/portfolio/static/css/main.8b9e0fa2.css",
+    "main.js": "/portfolio/static/js/main.b6b71f89.js",
     "static/media/cisco.pdf": "/portfolio/static/media/cisco.f3a765440a1947e558d1.pdf",
     "static/media/android.jpg": "/portfolio/static/media/android.a5a12a1195102407ad30.jpg",
     "static/media/cloud.pdf": "/portfolio/static/media/cloud.0f2e9ac972c8d3527b68.pdf",
@@ -30,11 +30,11 @@
     "static/media/profile.jpg": "/portfolio/static/media/profile.0a7d747e2cad6f5df84c.jpg",
     "static/media/googlecloud.png": "/portfolio/static/media/googlecloud.0b171ad9ff535139611d.png",
     "index.html": "/portfolio/index.html",
-    "main.1aceb717.css.map": "/portfolio/static/css/main.1aceb717.css.map",
-    "main.7c32a680.js.map": "/portfolio/static/js/main.7c32a680.js.map"
+    "main.8b9e0fa2.css.map": "/portfolio/static/css/main.8b9e0fa2.css.map",
+    "main.b6b71f89.js.map": "/portfolio/static/js/main.b6b71f89.js.map"
   },
   "entrypoints": [
-    "static/css/main.1aceb717.css",
-    "static/js/main.7c32a680.js"
+    "static/css/main.8b9e0fa2.css",
+    "static/js/main.b6b71f89.js"
   ]
 }
