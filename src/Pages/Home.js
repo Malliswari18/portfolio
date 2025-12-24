@@ -51,23 +51,25 @@ function Home() {
           ref={h11}
           className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold"
         >
-          Hi,👋 
-          I'm Malleswari Boggavarapu
+          Hi,👋 I'm Malleswari Boggavarapu
         </h1>
         <h2
           ref={h12}
           className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold"
         >
-          Student | Tech Enthusiast
+          Student | Tech Enthusiast | Exploring New Technologies
         </h2>
       </div>
       <div className="mt-5 md:mt-0">
-        <img
-          ref={myimageref}
-          className="w-1/2 md:ml-auto"
-          src={personalDetails.img}
-          alt="Malleswari"
-        />
+        {/* Wrapper to handle dark mode background */}
+        <div className="bg-gray-100 dark:bg-gray-800 p-2 rounded-full inline-block">
+          <img
+            ref={myimageref}
+            className="w-1/2 md:ml-auto rounded-full"
+            src={personalDetails.img}
+            alt="Malleswari"
+          />
+        </div>
       </div>
     </main>
   );
