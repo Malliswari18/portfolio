@@ -25,7 +25,7 @@ export const personalDetails = {
   tagline: "Tech Enthusiast",
   img: profile,
   about: `
-  B.Tech Computer Science and Engineering (AI \& ML) graduate, CGPA 8.87, with a foundation in Java, SQL, HTML, CSS, and JavaScript. Built a machine learning web application using Python and Flask, and completed a Full Stack Web Development internship covering front-end and back-end concepts. Seeking an entry-level Software Developer role to build web applications and grow in Java full-stack development.
+  B.Tech Computer Science and Engineering (AI & ML) graduate, CGPA 8.87, with a foundation in Java, SQL, HTML, CSS, and JavaScript. Built a machine learning web application using Python and Flask, and completed a Full Stack Web Development internship covering front-end and back-end concepts. Seeking an entry-level Software Developer role to build web applications and grow in Java full-stack development.
   `
 };
 
