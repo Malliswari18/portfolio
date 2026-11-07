@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.75a341bc.css",
-    "main.js": "/portfolio/static/js/main.7b707514.js",
+    "main.js": "/portfolio/static/js/main.c3ebee05.js",
     "static/media/cisco.pdf": "/portfolio/static/media/cisco.f3a765440a1947e558d1.pdf",
     "static/media/android.jpg": "/portfolio/static/media/android.a5a12a1195102407ad30.jpg",
     "static/media/cloud.pdf": "/portfolio/static/media/cloud.0f2e9ac972c8d3527b68.pdf",
@@ -31,10 +31,10 @@
     "static/media/googlecloud.png": "/portfolio/static/media/googlecloud.0b171ad9ff535139611d.png",
     "index.html": "/portfolio/index.html",
     "main.75a341bc.css.map": "/portfolio/static/css/main.75a341bc.css.map",
-    "main.7b707514.js.map": "/portfolio/static/js/main.7b707514.js.map"
+    "main.c3ebee05.js.map": "/portfolio/static/js/main.c3ebee05.js.map"
   },
   "entrypoints": [
     "static/css/main.75a341bc.css",
-    "static/js/main.7b707514.js"
+    "static/js/main.c3ebee05.js"
   ]
 }
