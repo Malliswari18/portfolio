@@ -1,4 +1,5 @@
 import React from "react";
+import { FaDatabase } from "react-icons/fa";
 import { techStackDetails } from "../Details";
 
 function Technologies() {
@@ -34,6 +35,10 @@ function Technologies() {
         <img src={java} title="Java" alt="" />
         <img src={googlecloud} title="Google Cloud" alt="" />
         <img src={flutter} title="flutter" alt="" />
+        <div className="flex flex-col items-center gap-2 text-dark-heading dark:text-light-heading" title="SQL">
+          <FaDatabase size={48} aria-hidden="true" />
+          <span>SQL</span>
+        </div>
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
